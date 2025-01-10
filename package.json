@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",  // Or your entry point file
-    "build": "npm install",      // Typically install dependencies
+    "start": "node server.js", 
+    "build": "npm install",      
     "dev": "npm run build && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
